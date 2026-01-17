@@ -48,7 +48,7 @@ VITE_BASE=/
 VITE_GLOB_API_URL=/api
 
 # Whether to enable Nitro Mock service, true to enable, false to disable
-VITE_NITRO_MOCK=true
+VITE_NITRO_MOCK=false
 
 # Whether to open devtools, true to open, false to close
 VITE_DEVTOOLS=true
